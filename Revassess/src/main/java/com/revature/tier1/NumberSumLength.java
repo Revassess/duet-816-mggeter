@@ -1,8 +1,5 @@
-package com.revature.tier1;
+package com.revature;
 
 public class NumberSumLength {
 
-	public static boolean checkNumberPowerLength(long num) {
-		return false;
-	}
 }

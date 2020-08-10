@@ -1,8 +1,17 @@
-package com.revature.tier1;
+package com.revature;
+
+import java.lang.reflect.Array;
 
 public class SumOverArray {
 
-	public static int IterateAndSum(int[] arr) {
-		return 0;
-	}
+    public static void main(){
+
+
+        Integer[] Array = {1, 6, 3, 4, 6, 7, 8};
+        for (int i = 0;i <Array.length;i++){
+           Integer sum;
+           sum = i++;
+        }
+
+    }
 }
